@@ -1,0 +1,2 @@
+/Users/gsitm/GSITM/MobileTestPorjects/calendar_scheduler/android/app/.cxx/Debug/58311x5u/x86_64/CMakeFiles/edit_cache.dir
+/Users/gsitm/GSITM/MobileTestPorjects/calendar_scheduler/android/app/.cxx/Debug/58311x5u/x86_64/CMakeFiles/rebuild_cache.dir
