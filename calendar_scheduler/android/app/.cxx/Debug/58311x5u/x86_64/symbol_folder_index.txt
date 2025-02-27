@@ -1,1 +1,0 @@
-/Users/gsitm/GSITM/MobileTestPorjects/calendar_scheduler/build/app/intermediates/cxx/Debug/58311x5u/obj/x86_64
